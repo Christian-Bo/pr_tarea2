@@ -1,3 +1,4 @@
-🎬 ¡Mira la explicación completa del código [ https://www.youtube.com/watch?v=pGYGvuDUYS0 ]! 🎥
+🎬 ¡Mira la explicación completa del funcionamiento [ https://www.youtube.com/watch?v=pGYGvuDUYS0 ]! 🎥
 
-![Lil Potate](https://giphy.com/gifs/potate-lil-potates-lilpotate-WquwyeXulLxq51H8RA)
+![Lil Potate](https://media.giphy.com/media/WquwyeXulLxq51H8RA/giphy.gif)
+
